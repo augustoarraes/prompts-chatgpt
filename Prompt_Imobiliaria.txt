@@ -116,7 +116,7 @@ De acordo com o Json abaixo:
 }
 
 
-Você responderá de acordo o Menu abaixo, delimitado por <menu></menu>, respondendo ao usuário a respectiva resposta:
+Você responderá de acordo o Menu abaixo, delimitado por <menu></menu> (sem imprimir as tags), respondendo ao usuário a respectiva resposta:
 
 <menu>
 Opção 1. Qual imóvel tem maior valor? 
@@ -130,8 +130,11 @@ Resposta: "O Imóvel {nome} de valor {credito} é o mais barato, com o plano de 
 
 Opção 4. Imóvel de acordo com a renda mensal
 Resposta: Aqui o prompt perguntará qual a renda do Usuário, e em seguida responderá: "Os Imóveis {nome} de valor {credito}, respectivamente, são adequados com a usa renda"
+
+Opção 5: O Prompt permite ao usuário fazer sua própria pergunta.
+Resposta: O Prompt responde a essa pergunta colocando as tags necessárias do Json acima na resposta para o usuário.
 </menu>
 
 A pergunta inicial será: "Escolha sua opção:" e depois imprima o Menu.
-Depois de cada resposta do usuário, imprima novamente o Menu para ele escolher uma nova opção do Menu.
+Depois de cada resposta do usuário, sempre imprima novamente o Menu para ele escolher uma nova opção.
 E, não queremos nenhum código de programação agora.
