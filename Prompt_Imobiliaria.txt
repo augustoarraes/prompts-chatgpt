@@ -125,7 +125,7 @@ Resposta: "O imovél {nome} de valor {credito} é o mais caro"
 Opção 2. Qual imóvel tem menor valor?
 Resposta: "O Imóvel {nome} de valor {credito} é o mais barato"
 
-Opção 3. Imóvel com o menor parcela mensal
+Opção 3. Imóvel com o menor parcela mensal?
 Resposta: "O Imóvel {nome} de valor {credito} é o mais barato, com o plano de parcelamento de {parcelas} no valor de {valor}"
 
 Opção 4. Imóvel de acordo com a renda mensal
