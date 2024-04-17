@@ -1,0 +1,137 @@
+Promtp, você é um médico hematologista de muitos anos de experiência.
+Dado o hemograma abaixo, entre as tags <hemograma></hemograma>, e nos demais exames, entre as tags <exames></exames>, apresentados de um paciente Mulher de 47 anos.
+
+<hemograma>
+"Hemograma Completo
+DATA DA COLETA: 24/11/2017 08:25     MATERIAL: SANGUE COM EDTA
+MÉTODO: Automação XE - 2100 D
+Série Eritrocitária                                       Valores Normais
+Eritrócitos................:   4,24  milhões/mm3          3,90 a 5,03 milhões/mm3
+Hemoglobina................: 12,30  g/dl                 12,0 a 15,5 g/dl
+Hematócrito................:   37,3  %                    34,9 a 44,5%
+V.C.M.....................:   88,0  micracúbica          80 a 99,5 micracúbica
+H.C.M.....................:   29,0  pg                   26 a 34 pg
+C.H.C.M...................:   33,0  %                    31 a 36%
+RDW (Indice de Anisocitose):   13,5  %                    Até 15%
+Hemácias normocíticas e normocrômicas.."																	
+
+"Série Leucocitária                                        Valores Normais
+Leucócitos.................:             4.260 /mm3       3.500 a 10.500/mm3"																									
+Mielócitos.................:					0.00		-	0	/mm3		00 a		00% -		0 a	0/mm3									
+Metamielócitos.............:					0.00		-	0	/mm3		00 a		00% -		0 a	0/mm3									
+Bastonetes.................:					0.00		-	0	/mm3		01 a		04% -		Até	840/mm3									
+Segmentados................:					64.30		-	2,740	/mm3		50 a		70% -		1.700 a	7.000/mm3									
+Eosinófilos................:					1.40		-	60	/mm3		01 a		04% -		50 a	500/mm3									
+Basófilos..................:					0.50		-	20	/mm3		00 a		01% -		0 a	100/mm3									
+Linfócitos Típicos.........:					24.40		-	1,040	/mm3		20 a		35% -		900 a	2.900/mm3									
+Linfócitos Atípicos........:					0.00		-	0	/mm3		00 a		05% -		0 a	250/mm3									
+Monócitos..................:					9.40		-	400	/mm3		04 a		10% -		300 a	900/mm3									
+"Contagem de Plaquetas                                     Valores Normais
+Plaquetas..................:          273.000 /mm3                130.000 a 400.000/mm3
+Valores normais de acordo com sexo e faixa etária. Referências: Clínica Mayo e Klee Thesis.
+Ferritina......................................:     6,3 ng/mL
+DATA DA COLETA: 24/11/2017 08:25     MATERIAL: SORO
+MÉTODO: Quimioluminescência Amplificada           VALOR DE REFERÊNCIA
+Masculino: 17,90 a 464,00 ng/mL
+Feminino < a 50 anos:  6,24 a 137,00 ng/mL Feminino > ou = a 50 anos: 11,10 a 264,00 ng/mL"					
+Limite de Detecção (LoD): 0,29 ng/mL.		
+</hemograma>
+
+<exames>
+    "Uréia..........................................:    8 mg/dL
+    DATA DE COLETA: 24/11/2017 08:25     MATERIAL: SORO
+    MÉTODO: Slide - Química Seca                    VALOR DE REFERÊNCIA: 15 a 40 mg/dL
+    OBS: Repetido e Confirmado.
+    Resultados Anteriores :
+    Prescrição   Data de coleta       Resultado             UM               Método 1576560      18/12/2012           12                     mg/dL           Urease"								
+
+    "
+Creatinina.....................................:   0,65 mg/dL
+DATA DE COLETA: 24/11/2017 08:25     MATERIAL: SORO
+MÉTODO: Slide - Química Seca   VALOR DE REFERÊNCIA:
+Masculino adulto    : 0,8 a 1,3 mg/dL Feminino adulto     : 0,6 a 1,0 mg/dL Criança 0 a 10 dias : 0,6 a 1,3 mg/dL
+Criança 1 a 12 meses: 0,4 a 0,6 mg/dL
+Criança 1 a 18 anos : 0,4 a 0,9 mg/dL
+Education Program (NKDEP) e pela Sociedade Brasileira de Nefrologia."								
+
+"
+T3 Total.......................................:         1,200 ng/mL
+DATA DA COLETA: 24/11/2017  08:25     MATERIAL: SORO
+MÉTODO: Quimioluminescência Amplificada            VALOR DE REFERÊNCIA:
+0,970 a 1,690 ng/mL
+Limite de Detecção (LoD): 0,067 ng/mL"								
+
+"Tiroxina Livre (T4 Livre)......................:         1,05 ng/dL
+DATA DA COLETA: 24/11/2017  08:25     MATERIAL: SORO
+MÉTODO: Quimioluminescência Amplificada          VALOR DE REFERÊNCIA:
+Faixa Etária (Anos):
+Abaixo de 20: 0,78 a 2,49 ng/dL
+De  20 a  39: 0,79 a 2,35 ng/dL
+De  40 a  59: 0,64 a 1,79 ng/dL
+De  60 a  79: 0,78 a 2,44 ng/dL
+Acima  de 79: 0,85 a 1,93 ng/dL"													
+
+"
+TSH Ultra Sensível.............................:     2,180 µUI/mL
+DATA DA COLETA: 24/11/2017  08:25     MATERIAL: SORO
+MÉTODO: Quimioluminescência Amplificada            VALOR DE REFERÊNCIA
+0,465 a 4,680 µUI/mL
+Limite de Detecção (LoD): 0,014 µUI/mL
+NOTA: O USO DE BIOTINA (VITAMINA B7) PODE LEVAR A RESULTADOS FALSAMENTE DIMINUIDOS, PRINCIPALMENTE  SE  A DOSE FOR SUPERIOR A 5 MG/DIA. SE O RESULTADO REPORTADO ACIMA FOR INCOMPATIVEL COM O QUADRO CLINICO, SUGERE-SE SUSPENDER A BIOTINA POR PELO MENOS 2 DIAS E REPETIR O EXAME EM OUTRA AMOSTRA.
+"													
+
+"
+Ferro Sérico ..................................:    54 mcg/dL
+DATA DE COLETA: 24/11/2017 08:25     MATERIAL: SORO
+MÉTODO: COLORIMETRICO                VALOR DE REFERÊNCIA
+RECEM-NASCIDO                  : 100 A 250 mcg/dL
+CRIANCA ATE 6 ANOS             :  40 A 100 mcg/dL CRIANCA MAIOR OU IGUAL A 7 ANOS:  50 A 120 mcg/dL HOMEM                          :  70 A 180 mcg/dL
+MULHER                         :  60 A 180 mcg/dL"													
+
+"Vitamina B12...................................:     51,5 pg/mL
+DATA DE COLETA: 24/11/2017 08:25     MATERIAL: SORO
+MÉTODO: QUIMIOLUMINESCÊNCIA                    VALOR DE REFERÊNCIA:
+HOMEM :  81,0 A 488,0 pg/mL
+MULHER: 111,0 A 522,0 pg/mL"								
+"(LHPBHZ)
+Resultados Anteriores :
+Prescrição   Data de coleta       Resultado             UM               Método
+3042741      23/04/2015           234,0                  pg/mL           QUIMIOLUMINESCÊNCIA"								
+
+
+"
+Rotina de Urina Tipo I
+DATA DE COLETA: 24/11/2017 14:51        MATERIAL: URINA
+Análise Química Qualitativa e Quantitativa realizada em sistema Automatizado de Leitura de fitas reativas.
+METODO: Reflectância COBAS U6500
+Análise Física                                             Valores Normais
+Cor..................: Amarela                             Amarelo
+Claridade............: Limpida                             Límpida
+Densidade............:  1.017                              1.015 a 1.025
+pH...................:    7,0                              4,8  a 7,4
+Pesquisa de Elementos Anormais
+Glicose..............: Normal                              Normal
+Proteínas............: Negativo                            Negativo (até 25,0 mg/dL)
+Corpos Cetônicos.....: Negativo                            Negativo (até 5,0 mg/dL)
+Bilirrubina..........: Negativo                            Negativo
+Urobilinogênio.......: Normal                              Normal (até 1 mg/dL)
+Hemoglobina..........: 10 /µL                              Negativo
+Nitrito..............: Negativo                           Negativo
+Sedimentoscopia
+METODO: Análise e Microscopia Optica Automatizada COBAS U6500
+Leucócitos...................: < 5.000  /mL                 Inferior a 20.000/mL
+Eritrócitos..................: 30.800  /mL                 Inferior a 20.000/mL Cel. Epiteliais Escamosas....: Negativo  /mL                Inferior a 25.000/mL Cel. Epiteliais nao Escamosas: Negativo                    Negativo
+Cristais.....................: Negativo                    Negativo
+Cilindros Hialinos...........: Negativo                    Negativo (inferior a 1/µL)
+Cilindros Patológicos........: Negativo                    Negativo
+Muco.........................: Positivo                    Negativo
+Leveduras....................: Negativo                    Negativo
+Bactérias....................: Negativo                   Negativo
+Confirmado e Liberado."								
+
+</exames>
+
+
+1) Qual seria o laudo na sua avaliação clínica?
+2) De acordo com os dados que estão no limite saudável, o que a paciente precisa se prevenir?
+3) Converta o {hemograma} e os {exames} em Json, pois vamos enviar para uma API.
